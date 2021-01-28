@@ -11,6 +11,9 @@ https://home.cs.colorado.edu/~main/bgi/install.html
 Youtube Video on these:  
 https://youtu.be/hbMldNq_5js  
 
+Youtube Video for running BGIDEMO on DevC++:  
+https://youtu.be/sYUlt2HakbQ  
+  
   
 Also contains a BGIDEMO which is reworked to work with DevC++ on Windows 7 and 10.  
   

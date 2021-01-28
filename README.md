@@ -8,6 +8,9 @@ https://home.cs.colorado.edu/~main/bgi/dev-c++/
   
 https://home.cs.colorado.edu/~main/bgi/install.html    
   
+Youtube Video on these:  
+https://youtu.be/hbMldNq_5js  
+
   
 Also contains a BGIDEMO which is reworked to work with DevC++ on Windows 7 and 10.  
   
